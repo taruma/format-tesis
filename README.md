@@ -6,11 +6,16 @@ Repo ini berisikan .docx yang dapat digunakan sebagai template dasar untuk pembu
 
 Keterangan styles bisa baca lebih lanjut pada [styles.md](./styles.md).
 
-## Perubahan / Fitur
+## Perubahan
 
 - Merapihkan _styles_ pada dokumen. Menghapus _styles_ yang tidak diperlukan dan/atau menggantikan dengan _styles_ yang serupa.
 - Memperjelas penamaan _styles_ dan konsistensi penamaan _styles_ untuk kemudahan penggunaan/membaca/pengembangan.
 - Membedakan _default styles_ dengan _styles_ buatan/modifikasi.
+
+## Fitur
+
+Berikut fitur yang tidak tersedia pada template sebelumnya:
+- Penggunaan `Heading` dan penomoran bab secara otomatis
 
 ## Catatan
 
