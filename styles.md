@@ -3,6 +3,7 @@ Dalam tulisan ini akan menjelaskan daftar _styles_ yang telah diubah/dimodifikas
 **Catatan:**
 - Penamaan styles yang telah dimodifikasi memiliki _prefix_ tanda titik diikuti nama _styles_. Contoh: `.NAMA-STYLES`.
 - Penggunaan garis bawah setelah tanda titik menandakan bahwa _styles_ tidak disarankan digunakan, dan hanya digunakan sebagai pengisi baris kosong atau penyesuaian tampilan. Contoh: `._blank-1`.
+- Pengembangan/modifikasi dilakukan pada Microsoft Word dengan Office 365 Personal.
 
 ## Core Styles
 
