@@ -1,4 +1,4 @@
-# format-tesis
+# format-docx
 
 Repo ini berisikan berkas .docx yang dapat digunakan sebagai template dasar untuk pembuatan tesis. 
 
