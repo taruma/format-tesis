@@ -4,7 +4,7 @@ Repo ini berisikan berkas .docx yang dapat digunakan sebagai template dasar untu
 
 ## Styles
 
-Keterangan styles dan penggunaan bisa baca lebih lanjut pada [styles.md](./styles.md)
+Keterangan styles dan penggunaan bisa baca lebih lanjut pada [styles.md](./styles.md).
 
 ## Perubahan
 
