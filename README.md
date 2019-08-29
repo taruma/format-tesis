@@ -1,10 +1,10 @@
-# format-docx
+# format-tesis
 
 Repo ini berisikan berkas .docx yang dapat digunakan sebagai template dasar untuk pembuatan tesis. 
 
 ## Styles
 
-Keterangan styles dan penggunaan bisa baca lebih lanjut pada [styles.md](./styles.md).
+Keterangan styles bisa baca lebih lanjut pada [styles.md](./styles.md).
 
 ## Perubahan
 
@@ -15,11 +15,8 @@ Keterangan styles dan penggunaan bisa baca lebih lanjut pada [styles.md](./style
 
 ## Catatan
 
-- Berkas yang terlampir digunakan untuk format halaman bolak-balik (two-side).
+- Berkas yang terlampir menggunakan format halaman bolak-balik (two-side).
 - Revisi/Perubahan ditujukan untuk kepentingan pribadi dan bukan untuk menggantikan template resmi yang telah tersedia pada situs resmi.
-- 
-
-
 
 ## Sumber
 Berkas asli diperoleh melalui situs sps.itb.ac.id yang diperoleh pada tanggal 26 Agustus 2019. 

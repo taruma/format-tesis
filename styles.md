@@ -4,7 +4,6 @@ Dalam tulisan ini akan menjelaskan daftar _styles_ yang telah diubah/dimodifikas
 - Penamaan styles yang telah dimodifikasi memiliki _prefix_ tanda titik diikuti nama _styles_. Contoh: `.NAMA-STYLES`.
 - Penggunaan garis bawah setelah tanda titik menandakan bahwa _styles_ tidak disarankan digunakan, dan hanya digunakan sebagai pengisi baris kosong atau penyesuaian tampilan. Contoh: `._blank-1`.
 
-
 ## Core Styles
 
 _Core Styles_ merupakan _styles_ paling penting dikarenakan _styles_ ini digunakan sebagai acuan untuk pengembangan _styles_ lainnya. _Core styles_ terdiri dari `._standard` dan `Normal`. `._standard` merupakan _custom styles_ yang dibuat, sedangkan `Normal` merupakan _built-in styles_. Kedua _styles_ ini memiliki atribut/paragraf:
@@ -63,7 +62,7 @@ Tabel | `.tabel-judul.panjang` | Baris judul tabel yang panjang
 
 Catatan:
 - Penggunaan _built-in styles_ untuk bab/sub-bab seperti `Heading 1` agar memudahkan dalam menambahkan keterangan/_caption_ untuk gambar, persamaan, dan tabel.
-- Untuk `.paragraf-hanging` menggunakan hanging 1.25 cm. Pada panduan ditulis 7 ketuk yang perlu penjelasan karena saya tidak mengerti maksud dari 7 ketukan. Pada contoh .docx, besarnya _hanging_ sebesar 1.27 cm (atau 0.5 inci).
+- Untuk `.paragraf-hanging` menggunakan hanging 1.25 cm. Pada panduan, ditulis 7 ketuk yang sulit saya interpretasikan. Pada contoh dokumen, besarnya _hanging_ sebesar 1.27 cm (atau 0.5 inci).
 
 ## TOC Styles
 
