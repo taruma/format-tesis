@@ -17,6 +17,10 @@ Keterangan styles bisa baca lebih lanjut pada [styles.md](./styles.md).
 Berikut fitur yang tidak tersedia pada template sebelumnya:
 - Penggunaan `Heading` dan penomoran bab secara otomatis
 
+## Penggunaan
+
+Untuk penggunaan seperti menambah daftar isi atau _caption_ bisa baca lebih lanjut pada halaman [penggunaan.md](./penggunaan.md).
+
 ## Catatan
 
 - Berkas yang terlampir menggunakan format halaman bolak-balik.
