@@ -1,12 +1,12 @@
 Di halaman ini akan menjelaskan penggunaan format-tesis
 
 Daftar isi:
-- [_Table of Content_ (TOC)](#_table-of-content_-toc)
-- [_Caption_](#_caption_)
+- [Table of Content (TOC)](#table-of-content-toc)
+- [Caption](#caption)
 
 -----
 
-## _Table of Content_ (TOC)
+## Table of Content (TOC)
 
 Langkah untuk membangkitkan TOC: 
 - Buka `References > Table of Contents > Custom Table of Contents...` melalui menu _Ribbon_.
@@ -50,7 +50,7 @@ Styles | TOC level
 
 -----
 
-## _Caption_
+## Caption
 
 Sebelum memasukkan _caption_, harus ditambah label yang dibutuhkan (label persamaan, tabel, gambar):
 - `References` > `Insert Caption`
