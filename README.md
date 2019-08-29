@@ -18,6 +18,7 @@ Keterangan styles bisa baca lebih lanjut pada [styles.md](./styles.md).
 - Revisi/perubahan ditujukan untuk kepentingan pribadi dan bukan untuk menggantikan template yang telah tersedia pada situs resmi.
 - Disarankan selalu menggunakan Office versi terbaru.
 - Untuk permasalahan, bisa melihat dokumen [issues.md](./issues.md).
+- Template ini tidak menggantikan kebutuhan membaca pedoman yang telah tersedia.
 
 ## Sumber
 Contoh template diperoleh dari situs sps.itb.ac.id pada tanggal 26 Agustus 2019. 
