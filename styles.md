@@ -23,6 +23,7 @@ Catatan:
 _Preparation Styles_ merupakan kumpulan _styles_ yang **hanya digunakan** pada bagian persiapan dokumen (cover, pengesahan, abstrak, dll). Penulisan nama _styles_ ini selalu diawali dengan `.prep-NAMASTYLES`. 
 
 Berikut daftar _styles_ yang termasuk dalam kategori ini:
+
 Styles | Deskripsi
 :- | :-
 `.prep-abstrak` | Bagian Abstrak
